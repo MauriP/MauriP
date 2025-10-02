@@ -35,7 +35,7 @@ Electron · Node.js · JavaScript · SQLite · HTML · CSS . .Net .C# .Windows F
     <img src="https://img.shields.io/badge/GitHub-MauriP-black?style=for-the-badge&logo=github" alt="GitHub"> 
   </a>
   <a href="https://www.instagram.com/mauriiperret_/"> 
-    <img src="https://img.shields.io/badge/Instagram-@tu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> 
+    
   </a>
   <!-- 
   <a href="[tu-linkedin]"> 
