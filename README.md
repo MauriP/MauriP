@@ -35,7 +35,7 @@
 ```bash
 # Tecnologías utilizadas
 Electron · Node.js · JavaScript · SQLite · HTML · CSS . .Net .C# .Windows Form
-
+```
 📈 Mis Métricas
 <p align="center"> <a href="https://github.com/MauriP?tab=repositories"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauriP&theme=radical" alt="Resumen de perfil" /> </a> </p>
 🔥 Contribuciones Recientes
