@@ -27,9 +27,6 @@
 ---
 
 ## 🎯 Actualmente
-
-- Aprendiendo desarrollo multiplataforma con Electron
-- Profundizando conocimientos en Vue.js
 - Construyendo APIs REST con ASP.NET Core
 - Mejorando mis conocimientos en bases de datos y arquitectura de software
 
